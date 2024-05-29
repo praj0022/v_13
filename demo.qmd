@@ -7,4 +7,5 @@ editor: visual
 
 # Introduction 
 
-this is conflict creation 
+
+this is no conflict creation and this is the main 

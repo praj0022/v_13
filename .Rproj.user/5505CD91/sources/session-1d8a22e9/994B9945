@@ -3,7 +3,11 @@
     "path": "~/Desktop/v_13/demo.qmd",
     "project_path": "demo.qmd",
     "type": "quarto_markdown",
+<<<<<<< HEAD
     "hash": "82773132",
+=======
+    "hash": "1422344029",
+>>>>>>> testbranch
     "contents": "",
     "dirty": false,
     "created": 1716959391473.0,
@@ -15,18 +19,30 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
+<<<<<<< HEAD
         "cursorPosition": "9,26",
+=======
+        "cursorPosition": "9,23",
+>>>>>>> testbranch
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
+<<<<<<< HEAD
     "lastKnownWriteTime": 1716959684,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1716959684637,
+=======
+    "lastKnownWriteTime": 1716959521,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716959521726,
+>>>>>>> testbranch
     "read_only": false,
     "read_only_alternatives": []
 }
